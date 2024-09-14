@@ -1,6 +1,7 @@
 🚀 To-Do App Welcome to the To-Do App! This full-stack application built with the MERN stack (MongoDB, Express, React, Node.js) helps you stay organized by easily managing your tasks. Whether tracking personal goals or managing work tasks, this app has you covered!
 
-📋 Features 
+📋 Features: 
+
 Add Tasks: Easily add new tasks with a few clicks. 
 Edit Tasks: Update your tasks whenever needed. 
 Delete Tasks: Remove tasks when they're completed or no longer needed. 
